@@ -1,28 +1,26 @@
 
-<!-- NEON PHOENIX ANIMATION -->
 <p align="center">
   <img
-    src="./assets/adibainctrl-neon-phoenix.gif"
+    src="./Neon%20Phoenix%20Awakening%20Animation.gif"
     alt="Adiba's Neon Green Phoenix"
     width="350"
   />
 </p>
 
-<h1 align="center">
-  ADIBA
-</h1>
+<h1 align="center">ADIBA</h1>
 
 <h3 align="center">
   <code>adibainctrl</code>
 </h3>
 
 <p align="center">
-  <b>RISE • REBUILD • REPEAT</b>
+  RISE • REBUILD • REPEAT
 </p>
 
 <p align="center">
   Building. Breaking. Learning. Rising again.
 </p>
+
 
 
 ## Hi there 👋
