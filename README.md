@@ -7,8 +7,8 @@
 - 🎯 Always challenging myself to become a better problem solver
 - 👯 I’m looking to collaborate on cybersecurity project
 ### 💻 Programming Profiles
-- Leetcode : https://leetcode.com/u/adibainctrl/
-
+- Leetcode : 
+- [LeetCode](https://leetcode.com/u/adibainctrl/)
 
 
 <!--
