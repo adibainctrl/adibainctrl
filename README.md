@@ -1,3 +1,18 @@
+
+<p align="center">
+  <img
+    src="./assets/adibainctrl-neon-phoenix.gif"
+    alt="Adiba's neon phoenix"
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <b>ADIBA | adibainctrl</b>
+  <br/>
+  <code>RISE • REBUILD • REPEAT</code>
+</p>
+
 ## Hi there 👋
 ### 💫 About Me
 - 🎓 Graduate Student
