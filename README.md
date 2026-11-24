@@ -7,8 +7,9 @@
 - 🎯 Always challenging myself to become a better problem solver
 - 👯 I’m looking to collaborate on cybersecurity project
 ### 💻 Programming Profiles
-- Leetcode : 
 - [LeetCode](https://leetcode.com/u/adibainctrl/)
+- [CodeChef](https://www.codechef.com/users/adibainctrl)
+- [HackerRank](https://www.hackerrank.com/profile/adibashahab23)
 
 
 <!--
