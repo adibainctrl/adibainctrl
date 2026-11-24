@@ -6,6 +6,10 @@
 - 🚀 Building projects and constantly learning new technologies.
 - 🎯 Always challenging myself to become a better problem solver
 - 👯 I’m looking to collaborate on cybersecurity project
+### 💻 Programming Profiles
+- Leetcode : https://leetcode.com/u/adibainctrl/
+
+
 
 <!--
 **adibainctrl/adibainctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
