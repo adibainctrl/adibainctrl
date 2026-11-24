@@ -27,7 +27,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adibainctrl?theme=dark&font=Baloo&ext=activity)
 
 [View My LeetCode Profile](https://leetcode.com/u/adibainctrl/)
+<h3>📅 LeetCode Consistency Calendar</h3>
 
+<p align="center">
+  <img src="https://leetcode-calander-svg.vercel.app/adibainctrl" width="100%" alt="LeetCode Contribution Calendar"/>
+</p>
 <!--
 **adibainctrl/adibainctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
