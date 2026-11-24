@@ -25,6 +25,14 @@
 ### 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adibainctrl?theme=dark&font=Baloo)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adibainctrl&show_icons=true&theme=tokyonight)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=adibainctrl&theme=tokyonight)
+
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adibainctrl&layout=compact&theme=tokyonight)
 
 
 
