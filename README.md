@@ -22,6 +22,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/adibainctrl?theme=dark&font=Baloo&ext=activity)
+
+[View My LeetCode Profile](https://leetcode.com/u/adibainctrl/)
 
 <!--
 **adibainctrl/adibainctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
